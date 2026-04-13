@@ -17,5 +17,8 @@ Chaque projet a son README, qui décrit notamment dans quel homelab j'ai réalis
 Parcours_devops
 |- 0.1_hello_world
 |- 0.5_premier_container
-|- 
+|- 0.6_premier_dockerfile
+|- 0.7_first_app
+|- ...
+|- 1.1_static_website
 ```
